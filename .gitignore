@@ -9,3 +9,4 @@ provisionalFiles/
 *.exe
 config.py
 *.spec
+系统重置.py
